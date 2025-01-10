@@ -1,0 +1,9 @@
+displayName = Eternity Mod Music
+author = Vaema and the Eternity Team
+version = 1.0
+homepage = https://discord.gg/4m4Xk6UeGW
+
+hideCode = true
+hideResources = true
+includeSource = false
+includePDB = true

@@ -1,0 +1,7 @@
+This mod adds the Eternity soundtrack and music boxes for each song.
+
+It is intended to be used alongside the Eternity Mod, but can be used alone.
+You will need to cheat in the music boxes if you are not using the Eternity Mod.
+
+NOTE: This mod does not add any content from Eternity!
+You need to install the Eternity Mod for items, bosses, and so on.
