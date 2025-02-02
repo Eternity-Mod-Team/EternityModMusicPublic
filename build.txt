@@ -1,9 +1,11 @@
 displayName = Eternity Mod Music
 author = Vaema and the Eternity Team
-version = 1.0
+version = 1.0.0.0
 homepage = https://discord.gg/4m4Xk6UeGW
 
 hideCode = true
 hideResources = true
 includeSource = false
 includePDB = true
+
+buildIgnore = .vs\*, *.csproj, *.user, *.md, obj\*, bin\*, Properties\*, *.config, .git\*, .github\*, .editorconfig, .gitignore, .gitattributes
