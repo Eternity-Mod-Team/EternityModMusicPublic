@@ -1,18 +1,16 @@
-using Terraria.ModLoader;
+﻿using Terraria.ModLoader;
 
 namespace EternityModMusic
 {
     public class EternityModMusic : Mod
 	{
-		public static EternityModMusic Instance;
+		internal static EternityModMusic Instance;
 
 		internal Mod Eternity = null;
 
-		public EternityModMusic() => Instance = this;
-
         public override void Load()
         {
-            Eternity = null;
+            Instance = this;
             ModLoader.TryGetMod("EternityMod", out Eternity);
         }
 
